@@ -1,0 +1,8 @@
+C:\Users\nick\source\repos\FuelEfficiency\FuelEfficiency\bin\Debug\FuelEfficiency.exe.config
+C:\Users\nick\source\repos\FuelEfficiency\FuelEfficiency\bin\Debug\FuelEfficiency.exe
+C:\Users\nick\source\repos\FuelEfficiency\FuelEfficiency\bin\Debug\FuelEfficiency.pdb
+C:\Users\nick\source\repos\FuelEfficiency\FuelEfficiency\obj\Debug\FuelEfficiency.csprojAssemblyReference.cache
+C:\Users\nick\source\repos\FuelEfficiency\FuelEfficiency\obj\Debug\FuelEfficiency.csproj.CoreCompileInputs.cache
+C:\Users\nick\source\repos\FuelEfficiency\FuelEfficiency\obj\Debug\FuelEfficiency.exe
+C:\Users\nick\source\repos\FuelEfficiency\FuelEfficiency\obj\Debug\FuelEfficiency.pdb
+C:\Users\nick\source\repos\FuelEfficiency\FuelEfficiency\bin\Debug\fuel.csv
